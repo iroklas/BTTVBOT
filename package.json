@@ -1,0 +1,25 @@
+{
+  "name": "bttvbot",
+  "version": "1.0.0",
+  "description": "Bot for BTTV Emote Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iroklas/BTTVBOT.git"
+  },
+  "author": "Oolix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iroklas/BTTVBOT/issues"
+  },
+  "homepage": "https://github.com/iroklas/BTTVBOT#readme",
+  "dependencies": {
+    "discord.js": "^11.6.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.7.0"
+  }
+}
